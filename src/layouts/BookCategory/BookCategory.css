@@ -1,0 +1,20 @@
+.romaceCategory {
+    border: 1px solid #999696;
+    background: #e4e4e4;
+    border-radius: 9px;
+    width: 60%;
+    margin: 30px auto;
+}
+.romaceCategory p {
+    text-align: center;
+}
+
+.book-category-btn{
+    margin-left: 10px;
+}
+
+.main-btn-div-save{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 6rem;
+}

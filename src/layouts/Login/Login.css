@@ -1,0 +1,107 @@
+.create-page{
+    position: relative;
+    background-color: #f4f6f8;
+  }
+  h1.novel-info {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 2rem;
+  }
+  .form-div 
+  {
+    top: 15px;
+    background: white;
+    width: 55%;
+    margin: 0 auto;
+  }
+  form.form-part {
+    margin: 30px 0 15px 0;
+    border-width: 5px solid bl;
+    border: 1px solid black;
+    border-width: 5px 0 0 0;
+}
+  .label-input-div{
+    padding-top: 15px;
+    margin-left: 2rem;
+  }
+  .all-label {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .create-book-inp {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 0.2px solid gray;
+    border-radius: 8px;
+    border-width: 0.5px;
+    width: 74%;
+}
+
+  .btn-div {
+    width: 75%;
+    margin-top: 1rem;
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  button.create-button-login {
+    background: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    width: 50%;
+    border: 1px solid #e8eaee;
+    border-width: 1px;
+    font-size: 18px;
+  }
+  img.icon {
+    width: 30px;
+    padding-left: 10px;
+  }
+
+
+  .bottom-btn-login{
+      margin-left: 5rem;
+  }
+  .register-btn-signup{
+      background-color: white;
+      border: none;
+      cursor: pointer;
+      text-align: center;
+      width: 50%;
+      font-size: 16px;
+
+    
+  }
+  @media(max-width: 1024px){
+    .form-div{
+        width: 70%;
+    }
+  }
+  @media(max-width: 768px){
+    .form-div{
+        width: 80%;
+    }
+  }
+  @media(min-width: 320px) and (max-width: 425px){
+    .form-div{
+        width: 100%;
+    }
+    h1.novel-info{
+        font-size: 25px;
+    }
+    form.form-part{
+        margin-top: -9px;
+    }
+    .label-input-div{
+        margin-left: 1rem;
+    }
+ 
+    .btn-div{
+        width: 100%;
+    }
+    button.create-button-login{
+        width: 50%;
+    }
+  }

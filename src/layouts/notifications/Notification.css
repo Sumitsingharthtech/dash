@@ -1,0 +1,51 @@
+.lovestory{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bookCover2{
+    width: 50%;
+    flex-wrap: wrap;
+
+}
+.romance1{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bookCover3{
+    width: 50%;
+    flex-wrap: wrap;
+
+}
+.Marriage{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bookCover4{
+    width: 50%;
+    flex-wrap: wrap;
+
+}
+.WereWolf{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bookCover5{
+    width: 50%;
+    flex-wrap: wrap;
+
+}
+.CEO{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.bookCover6{
+    width: 50%;
+    flex-wrap: wrap;
+
+}
+

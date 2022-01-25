@@ -1,0 +1,9 @@
+.css-hyxlzm {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 12px;
+}
